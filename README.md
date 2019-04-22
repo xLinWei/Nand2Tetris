@@ -1,7 +1,7 @@
 # Nand2Tetris
 the project code of [Nand2Tetris](https://www.coursera.org/learn/build-a-computer)(an online course)
 
-Nand2Teris(从与非门到俄罗斯方块)是一个基于项目的课程，其从一个与非门(Nand)开始，根据设计好的指令系统，构建一个完整的计算机(HACK Computer)，并编写汇编器及编译器，最终实现Tetris游戏。
+Nand2Teris(从与非门到俄罗斯方块)是一个基于项目的课程，其从一个与非门(Nand)开始，根据设计好的指令系统，构建一个完整的计算机(HACK Computer)，并编写汇编器及编译器，最终实现Tetris游戏。这里是PART1部分。
 
 任何逻辑表达式均可以用“与或非”表示，而“与或非”又能用“与非门”表示，基于此用Nand构建HACK Computer
 ![Hack Computer](image/Hack.png)
