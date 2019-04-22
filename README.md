@@ -1,6 +1,5 @@
 # Nand2Tetris
-the project code of [Nand2Tetris](https://www.coursera.org/learn/build-a-computer)
-(a online course)
+the project code of [Nand2Tetris](https://www.coursera.org/learn/build-a-computer)(an online course)
 
 Nand2Teris(从与非门到俄罗斯方块)是一个基于项目的课程，其从一个与非门(Nand)开始，根据设计好的指令系统，构建一个完整的计算机(HACK Computer)，并编写汇编器及编译器，最终实现Tetris游戏。
 
